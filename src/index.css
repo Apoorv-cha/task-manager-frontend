@@ -448,9 +448,6 @@ a:hover {
   justify-content: center;
   align-items: start;
   padding: 0 10px;
-  background-image: url("leahbg.jpg");
-  background-size: cover;
-  background-repeat: no-repeat;
 }
 
 .task-container {
